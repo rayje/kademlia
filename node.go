@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/hex"
-	"rand"
+	"math/rand"
 )
 
 const IdLength = 20
